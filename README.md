@@ -1,2 +1,3 @@
 # Prown666.github.io
-xxxdns
+尝试博客园绑定域名
+hh
